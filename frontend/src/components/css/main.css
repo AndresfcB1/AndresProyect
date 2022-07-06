@@ -1,14 +1,14 @@
-.gradient {
-    background-image: url("https://image.freepik.com/vector-gratis/fondo-degradado-lineas-azules-dinamicas_23-2148995756.jpg");
-}
+
 
 .footer {
     position:fixed;
     bottom: 0;
     width: 100%;
+    background: rgba(0,0,0,0.9);
+
 }
 
-header {
+.header {
     background: rgba(0,0,0,0.9);
     width: 100%;
     position: fixed;

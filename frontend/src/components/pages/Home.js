@@ -43,11 +43,11 @@ const Home = ({history}) => {
   
 
     <div class="container">
-    <h1 class='tituloHome'>Equipo Enigma</h1>
+    <h1 class='tituloHome'>Corotto</h1>
 
-<h2 >Proyecto Web: Gestion proyectos</h2>
+<h2 > Document Management App</h2>
 
-<h3> Integrantes del grupo</h3>
+<h3> Creator</h3>
 
 <br/>
 
@@ -55,7 +55,7 @@ const Home = ({history}) => {
         
           <tr>
             
-            <th scope="col">Nombre</th>
+            <th scope="col">Name</th>
             <th scope="col">Email</th>
             
           </tr>
@@ -67,25 +67,9 @@ const Home = ({history}) => {
             <td>andrescoronadob5@gmail.com</td>
            
           </tr>
-          <tr>
-           
-            <td>Julián Andrés Ortiz</td>
-            <td>julianortizvillar@gmail.com</td>
-            
-          </tr>
-          <tr>
-           
-            <td>Juan Carlos Valderrama</td>
-            <td> juancavalde@gmail.com</td>
-            
-          </tr>
+          
 
-          <tr>
-           
-            <td>Sebastian Barrera</td>
-            <td> kbarrerac@unal.edu.co</td>
-            
-          </tr>
+          
 
         </tbody>
       

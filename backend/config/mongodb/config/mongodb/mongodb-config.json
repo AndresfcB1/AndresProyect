@@ -1,9 +1,9 @@
 {
     "mongodb": {
-      "server": "cluster0.eaqta.mongodb.net",
-      "database": "myFirstDatabase?retryWrites=true&w=majority",
-      "user": "web4",
-      "password": "minticweb"
+      "server": "cluster0.cp4m8dw.mongodb.net",
+      "database": "?retryWrites=true&w=majority",
+      "user": "andres_coronado",
+      "password": "andres"
     }
   }
 
